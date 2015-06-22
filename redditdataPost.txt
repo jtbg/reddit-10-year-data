@@ -26,6 +26,7 @@ Note: this was not measured prior to Feb 2010, so data before then is a simple l
 **[Top 20 commented threads](https://github.com/drunken-economist/reddit-10-year-data/blob/master/top20CommentedThreads.csv)**
 
 |Rank|Link|Notes|
+--:|:--|:--
 |1|https://www.reddit.com/r/blog/comments/d14xg/everyone_on_team_reddit_would_like_to_raise_a/||
 |2|https://www.reddit.com/r/jerktalkdiamond/comments/28sluw/the_monthly_the_monthly_self_post_that_gets/|broke the site and comments are gone. You aren't missing anything|
 |3|https://www.reddit.com/r/millionairemakers/comments/2q36z6/reddit_lets_make_a_millionaire/||
@@ -50,6 +51,7 @@ Note: this was not measured prior to Feb 2010, so data before then is a simple l
 **[Top 20 most gilded submissions](https://github.com/drunken-economist/reddit-10-year-data/blob/master/top20GildedSubmissions.csv)**
 
 |Rank|Link|Notes|
+--:|:--|:--
 |1|http://www.reddit.com/r/videos/comments/2lwm9q/me_eating_a_bulls_dick_for_400_gold_on_a_single/|see the top gilded comment for context|
 |2|http://www.reddit.com/r/everymanshouldknow/comments/29hbtj/emsk_why_the_red_pill_will_kill_you_inside/||
 |3|http://www.reddit.com/r/GetMotivated/comments/2xc947/text_soon_i_will_be_gone_forever_but_thats_okay/||
@@ -74,6 +76,7 @@ Note: this was not measured prior to Feb 2010, so data before then is a simple l
 **[Top 20 most gilded comments](https://github.com/drunken-economist/reddit-10-year-data/blob/master/top20GildedComments.csv**
 
 |Rank|Link|Notes|
+--:|:--|:--
 |1|http://www.reddit.com/r/leagueoflegends/comments/2lel5s/tsm_bjergsen_ama/clu14fx||
 |2|http://www.reddit.com/r/videos/comments/343b1k/this_man_really_hit_the_nail_on_the_head_when_it/cqqxlit||
 |3|http://www.reddit.com/r/AskReddit/comments/1k5yok/wingmen_of_reddit_what_crazy_things_have_you_done/cblqpk6||
@@ -98,6 +101,7 @@ Note: this was not measured prior to Feb 2010, so data before then is a simple l
 **[Top 20 most saved comments](https://github.com/drunken-economist/reddit-10-year-data/blob/master/top20SavedComments.csv)**
 
 |Rank|Saves|Link|Notes|
+--:|--:|:--|:--
 |1|43322|http://www.reddit.com/r/AskReddit/comments/2b0yf8/good_students_how_do_you_go_about_getting_good/cj0qre2||
 |2|38150|http://www.reddit.com/r/AskReddit/comments/26e6g4/what_free_things_on_the_internet_should_everyone/chq6lsp||
 |3|35370|http://www.reddit.com/r/AskReddit/comments/219w2o/whos_the_dumbest_person_youve_ever_met/cgbhkwp||
@@ -126,6 +130,7 @@ Sorry, we tried. Post saves have been around since reddit's inception, and looki
 **And a few for the road**
 
 |Name|amount|Notes|
+:-:|--:|:--
 |link posts|121,745,633||
 |self posts|68,481,919||
 |submission upvotes|5,620,244,302|this is only votes which were counted|
