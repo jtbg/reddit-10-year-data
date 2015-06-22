@@ -27,7 +27,7 @@ Note: this was not measured prior to Feb 2010, so data before then is a simple l
 
 |Rank|Link|Notes|
 |1|https://www.reddit.com/r/blog/comments/d14xg/everyone_on_team_reddit_would_like_to_raise_a/||
-|2|https://www.reddit.com/r/jerktalkdiamond/comments/28sluw/the_monthly_the_monthly_self_post_that_gets/|
+|2|https://www.reddit.com/r/jerktalkdiamond/comments/28sluw/the_monthly_the_monthly_self_post_that_gets/|broke the site and comments are gone. You aren't missing anything|
 |3|https://www.reddit.com/r/millionairemakers/comments/2q36z6/reddit_lets_make_a_millionaire/||
 |4|https://www.reddit.com/r/millionairemakers/comments/2syfcu/itt_we_become_millionaires/||
 |5|https://www.reddit.com/r/podemos/comments/2kjze6/bar_de_la_plaza/|Context: [Podemos](http://www.newyorker.com/tech/elements/spain-politics-via-reddit)|
